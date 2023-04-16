@@ -131,6 +131,8 @@ nav ul li a {
   border-radius: 30px;
   box-shadow: 1px 4px 12px rgba(0, 19, 33, 0.15);
 }
+
+
 .ramenjutsu {
   display: flex;
   height: 150%;
@@ -138,9 +140,8 @@ nav ul li a {
   width: 600px;
   margin-top: 190px;
   padding-left: 900px;
-  justify-content: flex-end;
+  justify-content: flex-end; }
   
-}
 .bgmy {
   display: flex;
   height: 15%;
